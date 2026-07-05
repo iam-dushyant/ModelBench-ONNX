@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# CMake / C++
+build/
+*.o
+*.out
+*.exe
+
+# OS files
+.DS_Store
+
+# Reports generated locally
+reports/*.json
+reports/*.csv
+reports/*.txt
