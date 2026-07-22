@@ -713,3 +713,67 @@ The main areas I need to build knowledge in are:
 * portfolio evidence.
 
 The long-term goal is to move from theoretical understanding to practical evidence by building small, well-documented projects that show real ML engineering capability.
+
+The learning topics are structured as below for reference:
+
+Machine Learning
+
+│
+
+├── Mathematics
+
+│   ├── Linear Algebra
+
+│   ├── Calculus
+
+│   ├── Probability
+
+│   └── Statistics
+
+│
+
+├── Classical ML
+
+│   ├── Regression
+
+│   ├── Trees
+
+│   ├── Ensembles
+
+│   ├── SVM
+
+│   └── Clustering
+
+│
+
+├── Deep Learning
+
+│   ├── CNN
+
+│   ├── RNN
+
+│   ├── Transformers
+
+│   └── Diffusion
+
+│
+
+├── NLP
+
+├── Computer Vision
+
+├── Reinforcement Learning
+
+├── LLMs
+
+├── MLOps
+
+├── Feature Engineering
+
+├── Experiment Tracking
+
+├── Deployment
+
+├── Monitoring
+
+└── AI Infrastructure

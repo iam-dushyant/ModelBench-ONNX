@@ -1,18 +1,25 @@
-# Python
-.venv/
 __pycache__/
+
 *.pyc
 
-# CMake / C++
-build/
-*.o
-*.out
-*.exe
+.ipynb_checkpoints/
 
-# OS files
+.env
+
+.vscode/
+
 .DS_Store
 
-# Reports generated locally
-reports/*.json
-reports/*.csv
-reports/*.txt
+models/
+
+datasets/raw/
+
+mlruns/
+
+wandb/
+
+*.pkl
+
+*.pt
+
+*.pth
